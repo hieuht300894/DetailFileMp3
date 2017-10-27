@@ -1,0 +1,13 @@
+E:\C#\DetailFileMp3\DetailFileMp3\bin\Debug\DetailFileMp3.exe.config
+E:\C#\DetailFileMp3\DetailFileMp3\bin\Debug\DetailFileMp3.exe
+E:\C#\DetailFileMp3\DetailFileMp3\bin\Debug\DetailFileMp3.pdb
+E:\C#\DetailFileMp3\DetailFileMp3\bin\Debug\policy.2.0.taglib-sharp.dll
+E:\C#\DetailFileMp3\DetailFileMp3\bin\Debug\taglib-sharp.dll
+E:\C#\DetailFileMp3\DetailFileMp3\bin\Debug\policy.2.0.taglib-sharp.config
+E:\C#\DetailFileMp3\DetailFileMp3\obj\Debug\DetailFileMp3.csprojResolveAssemblyReference.cache
+E:\C#\DetailFileMp3\DetailFileMp3\obj\Debug\DetailFileMp3.Form1.resources
+E:\C#\DetailFileMp3\DetailFileMp3\obj\Debug\DetailFileMp3.Properties.Resources.resources
+E:\C#\DetailFileMp3\DetailFileMp3\obj\Debug\DetailFileMp3.csproj.GenerateResource.Cache
+E:\C#\DetailFileMp3\DetailFileMp3\obj\Debug\DetailFileMp3.csproj.CoreCompileInputs.cache
+E:\C#\DetailFileMp3\DetailFileMp3\obj\Debug\DetailFileMp3.exe
+E:\C#\DetailFileMp3\DetailFileMp3\obj\Debug\DetailFileMp3.pdb
